@@ -1,0 +1,2 @@
+# Machine-Health-Analysis-by-graphs
+# Machine-Health-Analysis  Machine  condition  monitoring  is  the  process  of  monitoring  the  condition  of  a  machine  with  the  intent  to  predict  mechanical wear and failure. Vibration, force,current,power,input rpm  and output rpm measurements are often used as key indicators of the state  of the drilling machine.  We  can  use  this  information  to  detect  warning  signs  early  and  help  your  organization  stop  unscheduled outages, optimize machine performance, and reduce repair time and maintenance costs
